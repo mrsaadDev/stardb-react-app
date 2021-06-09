@@ -1,3 +1,6 @@
+This project was created without a react router, without a react hooks, and you can only use it for learning. :)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
