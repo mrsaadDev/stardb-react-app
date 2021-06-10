@@ -1,4 +1,3 @@
-This project was created without a react router, without a react hooks, and you can only use it for learning. :)
 
 
 # Getting Started with Create React App
